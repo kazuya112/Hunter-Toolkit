@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Hunter Toolkit
 
 Advanced Termux Toolkit
@@ -24,3 +25,6 @@ bash legal_toolkit.sh
 Author
 
 kazuya112
+=======
+# Hunter-Toolkit
+>>>>>>> a5ced3eb61727111c757739ffea4329ad7decb7b
