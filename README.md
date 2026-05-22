@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 Hunter Toolkit
 
 Advanced Termux Toolkit
@@ -15,11 +14,14 @@ Features
 - Text To Speech
 - Emergency Call
 
-Installation
+Installation Guide ✨ 
 
 pkg install git -y
+
 git clone https://github.com/kazuya112/Hunter-Toolkit
-cd legal-Toolkit
+
+cd Hunter-Toolkit
+
 bash legal_toolkit.sh
 
 Author
